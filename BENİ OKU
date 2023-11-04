@@ -2,11 +2,11 @@
 İNSTAGRAM SPAM BOTU 
 
 Tek Yapmanız Gereken;
-Python'u bu dosya ile açın. 
+Python'u main.py dosyası ile açın. 
 Ardından spam atmak istediğiniz kişinin 
-mesah bölümüne girin. Tekrardan Python'a 
-gelip kodu çalıştırın ve İnstagram mesaja tekrar
-girip ENTER'a basın.
+mesaj bölümüne girin. Tekrardan Python'a 
+gelip kodu çalıştırın ve İnstagram mesaja tekrar girip ENTER'a basın.
+
 (Message.txt metininden dilediğiniz spamı 
 yazabilirsiniz)
 
